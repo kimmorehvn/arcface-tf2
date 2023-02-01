@@ -1,0 +1,5 @@
+opencv-python
+bcolz==1.2.1
+sklearn2
+PyYAML
+tqdm
